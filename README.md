@@ -7,6 +7,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Did you know that the most common programming language used in data science is Python? Python is popular because it has a simple and easy-to-learn syntax, a vast collection of libraries for data manipulation, analysis, and visualization, and it can be used for a variety of tasks such as machine learning, web development, and scientific computing. Many data scientists also use tools like Jupyter notebooks for data exploration and prototyping.
 
-### Backgroung
+### Background
 
 I am a data scientist with a background in software development. I recently completed an end of study internship and earned a degree in data science from the National Advanced School of Engineering in Maroua - Cameroon. I also hold a bachelor's degree in software development from the University Institute of Technology. My skills include exploratory data analysis, data analysis, Power BI, machine learning, and I am proficient in both Python and R for data science. I am passionate about using data to solve complex problems and am always looking to expand my knowledge in the field of data science.
